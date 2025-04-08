@@ -129,6 +129,10 @@ if __name__ == '__main__':
     client_program()
 ~~~
 
+## Output:
+![Screenshot 2025-04-08 132815](https://github.com/user-attachments/assets/e89c843a-f24c-4ea1-ac1e-ba977cf6fb67)
+
+
 ## Result:
 
 Thus the study on Client Server Chat Applications has been performed
